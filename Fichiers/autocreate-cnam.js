@@ -1,4 +1,3 @@
-document.write("<link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet'/>");
 
 //------ EXEC BATCH AT USER CREATION ------------------
 var g_execbatch = true;
@@ -28,3 +27,4 @@ function prepareBatch()
 		"auditeurPrenom" : USER.firstname,
 	};
 }//----------------------------------------------------
+
